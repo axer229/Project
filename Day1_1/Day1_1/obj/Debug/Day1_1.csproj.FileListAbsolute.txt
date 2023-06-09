@@ -1,0 +1,16 @@
+C:\Users\Кабинет_106\Desktop\День 1\1\Day1_1\Day1_1\bin\Debug\Day1_1.exe.config
+C:\Users\Кабинет_106\Desktop\День 1\1\Day1_1\Day1_1\bin\Debug\Day1_1.exe
+C:\Users\Кабинет_106\Desktop\День 1\1\Day1_1\Day1_1\bin\Debug\Day1_1.pdb
+C:\Users\Кабинет_106\Desktop\День 1\1\Day1_1\Day1_1\obj\Debug\Day1_1.csproj.AssemblyReference.cache
+C:\Users\Кабинет_106\Desktop\День 1\1\Day1_1\Day1_1\obj\Debug\Day1_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Кабинет_106\Desktop\День 1\1\Day1_1\Day1_1\obj\Debug\Day1_1.csproj.CoreCompileInputs.cache
+C:\Users\Кабинет_106\Desktop\День 1\1\Day1_1\Day1_1\obj\Debug\Day1_1.exe
+C:\Users\Кабинет_106\Desktop\День 1\1\Day1_1\Day1_1\obj\Debug\Day1_1.pdb
+C:\Users\Administrator\Desktop\Мои задания\1 день\1\Day1_1\Day1_1\bin\Debug\Day1_1.exe.config
+C:\Users\Administrator\Desktop\Мои задания\1 день\1\Day1_1\Day1_1\bin\Debug\Day1_1.exe
+C:\Users\Administrator\Desktop\Мои задания\1 день\1\Day1_1\Day1_1\bin\Debug\Day1_1.pdb
+C:\Users\Administrator\Desktop\Мои задания\1 день\1\Day1_1\Day1_1\obj\Debug\Day1_1.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Мои задания\1 день\1\Day1_1\Day1_1\obj\Debug\Day1_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\Мои задания\1 день\1\Day1_1\Day1_1\obj\Debug\Day1_1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Мои задания\1 день\1\Day1_1\Day1_1\obj\Debug\Day1_1.exe
+C:\Users\Administrator\Desktop\Мои задания\1 день\1\Day1_1\Day1_1\obj\Debug\Day1_1.pdb
